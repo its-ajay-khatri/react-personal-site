@@ -1,0 +1,18 @@
+.heading-class{
+    font-weight: 900;
+}
+
+.brand-name{
+    color: #0d6efd
+}
+
+.btn-get-started {
+    border-radius: 25px;
+    border: solid 2px #0d6efd;
+    padding: 14px 50px;
+    text-decoration: none;
+}
+
+.btn-class{
+    margin-top: 40px!important;
+}
